@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryuto</h1>
 <h3 align="center">A passionate full-stack developer from Japan</h3>
 
-- 🔭 I’m currently working on **a internship in Japan**
+- 🔭 I’m currently working on **studying computer science at San Jose State University**
 
 - 🌱 I’m currently learning **TypeScript, tRPC, Rust, AWS, System Design, and DDD(Domain-Driven Design)**
 
