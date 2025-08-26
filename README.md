@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently **studying computer science at San Jose State University**
 
-- 🌱 I’m currently learning **TypeScript, tRPC, Rust, AWS, System Design, and DDD(Domain-Driven Design)**
+- 🌱 I’m currently learning **Java, TypeScript, tRPC, Rust, AWS, System Design, and DDD(Domain-Driven Design)**
 
 - 👯 I’m looking to collaborate on **company that works on fascinate project**
 
