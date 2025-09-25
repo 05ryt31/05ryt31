@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **TS!**
 
-- 📫 How to reach me **ryuto.kawabata@sjsu.edu**
+- 📫 How to reach me ryuto.kawabata@sjsu.edu
 
 - 📄 Know about my experiences [https://resume.io/r/xQ5I9tcsz](https://resume.io/r/xQ5I9tcsz)
 
