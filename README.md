@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Java, TypeScript, Rust, AWS, and System Design**
 
-- 👯 I’m looking to collaborate on **company that works on fascinate project using AI**
-
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ryuto-kawabata-470997291/](https://www.linkedin.com/in/ryuto-kawabata)
 
 - 💬 Ask me about **TypeScript and Hackathon!**
