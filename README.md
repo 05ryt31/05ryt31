@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **TypeScript and Hackathon!**
 
-- 📫 How to reach me **DM me via LinkedIn or email to ryuto.kawabata@sjsu.edu**
+- 📫 How to reach me **DM me on LinkedIn or email to ryuto.kawabata@sjsu.edu**
 
 - 📄 Know about my experiences: **Here is my resume: https://drive.google.com/file/d/1qyDQU5gJ4dM1ZwBuHeq6xjjcIHxeYlfB/view?usp=sharing**
 
