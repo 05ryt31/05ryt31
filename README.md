@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ryuto-kawabata-470997291/](https://www.linkedin.com/in/ryuto-kawabata)
 
-- 💬 Ask me about **TypeScript and Hackathon!**
+- 💬 Ask me about **TypeScript and Hackathon**
 
 - 📫 How to reach me: **DM me on LinkedIn or email to ryuto.kawabata@sjsu.edu**
 
