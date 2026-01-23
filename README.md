@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently **a junior student, studying computer science at San Jose State University**
 
-- 🌱 I’m currently learning **Java, TypeScript, Rust, AWS, and System Design**
+- 🌱 I’m currently learning **Linux, Rust, AWS, and System Design**
 
 - 📝 I regularly write articles on **[https://www.linkedin.com/in/ryuto-kawabata-470997291/](https://www.linkedin.com/in/ryuto-kawabata)**
 
