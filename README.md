@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate full-stack developer from Japan</h3>
 
-- 🔭 I’m currently **a junior student, studying computer science at San Jose State University**
+- 🔭 I’m currently **a junior student, studying computer science @ San Jose State University**
 
 - 🌱 I’m currently learning **Linux, Rust, AWS, and System Design**
 
