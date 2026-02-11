@@ -18,7 +18,7 @@ Instead of repeating the same path, I asked myself a harder question:
 
 With no experience living abroad and limited confidence in my English, I made the decision to move to the United States and pursue computer science from the ground up. I chose to start at a community college in California as my first step toward a bigger goal — building technology that improves lives on a global scale.
 
-Today, I focus on building scalable full-stack AI agent application and exploring cloud infrastructure because I want to understand not just how products look — but how they work at scale.
+Today, I focus on building scalable **Full-Stack AI agent application** and exploring cloud infrastructure because I want to understand not just how products look — but how they work at scale.
 
 #### I am still on that journey 
 
