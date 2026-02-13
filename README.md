@@ -23,7 +23,7 @@ Today, I focus on building scalable **Full-Stack AI agent application** and expl
 #### I am still on that journey 
 
 
-<h3 align="center">A passionate full-stack developer from Japan</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
 - 🔭 I’m currently **a junior student, studying computer science @ San Jose State University**
 
