@@ -2,7 +2,7 @@
 
 <h3 align="center">A Little Bit About Me 👤</h2>
 
-I was born in **Shiga**, Japan, near Osaka. When I was in middle school, the iPhone completely changed how I viewed technology.  
+I was born in **Japan**. When I was in middle school, the iPhone completely changed how I viewed technology.  
 **I was fascinated by how a single product could influence millions of people’s daily lives.** That was the moment I began to dream of building something that could impact people at scale.
 
 Years later, I dedicated myself to entering one of Japan’s top universities for computer science. I studied **more than ten hours** a day for a year, confident that I would succeed.   
