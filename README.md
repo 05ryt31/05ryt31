@@ -20,7 +20,7 @@ With no experience living abroad and limited confidence in my English, I made th
 
 Today, I focus on building scalable **Full-Stack AI agent application** and exploring cloud infrastructure because I want to understand not just how products look — but how they work at scale.
 
-#### I am still on that journey 
+#### I'm still on that journey 
 
 
 <h3 align="center">A passionate full-stack developer</h3>
