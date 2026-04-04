@@ -8,7 +8,7 @@ I was born in **Japan**. When I was in middle school, the iPhone completely chan
 Years later, I dedicated myself to entering one of Japan’s top universities for computer science. I studied **more than ten hours** a day for a year, confident that I would succeed.   
 When I checked my results on my phone, I saw one word: **"Failed"** I had missed admission by just **"ten points"**.
 
-> That moment became a turning point.
+#### That moment became a turning point.
 
 Instead of repeating the same path, I asked myself a harder question:  
 <br>
