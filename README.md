@@ -2,7 +2,9 @@
 
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently **a junior student, studying computer science @ San Jose State University**
+- 🔭 I’m **a junior student, studying computer science @ San Jose State University**
+
+- 💼 Incoming intern @Mercari as a platform engineer, and @Sansan as a backend engineer.
 
 - 🌱 I’m currently learning **Linux, Rust, AWS, and System Design**
 
