@@ -6,7 +6,7 @@
 
 - 💼 Incoming intern **@Mercari** as a platform engineer, and **@Sansan** as a backend engineer.
 
-- 🌱 I’m currently learning **Linux, Rust, AWS, Terraform, and K8s**
+- 🌱 I’m currently learning **Linux, Go, AWS, Terraform, and K8s**
 
 - 📝 I regularly write articles on **[https://www.linkedin.com/in/ryuto-kawabata](https://www.linkedin.com/in/ryuto-kawabata)**
 
