@@ -4,7 +4,7 @@
 
 - 🧑🏻‍💻 I’m **a senior student, studying computer science @San Jose State University**
 
-- 💼 Incoming intern **@Mercari** as a platform engineer, and **@Sansan** as a backend engineer.
+- 💼 Platform Engineer intern **@Mercari**.
 
 - 🌱 I’m currently learning **Linux, Go, AWS, Terraform, and K8s**
 
