@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on **[https://www.linkedin.com/in/ryuto-kawabata](https://www.linkedin.com/in/ryuto-kawabata)**
 
-- 📫 How to reach me: **DM me via LinkedIn or email to ryuto.kawabata@sjsu.edu**
+- 📫 How to reach me: **DM me via LinkedIn or Email to ryuto.kawabata@sjsu.edu**
 
 - 📄 Know about my experiences: **Please take a look at my resume [https://drive.google.com/file/d/1qyDQU5gJ4dM1ZwBuHeq6xjjcIHxeYlfB](https://drive.google.com/file/d/1-MDJlzYRIgpAZTaFGOtfE6GvThGAvXA4/view?usp=sharing)**
 
