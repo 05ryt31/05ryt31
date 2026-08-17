@@ -4,7 +4,7 @@
 
 - 🧑🏻‍💻 I’m **a Senior student, studying Computer Science @San Jose State University**
 
-- 💼 **Platform Engineering Intern @Mercari**
+- 💼 **Full-Stuck Engineering Intern @Aisaac, Prev Platform Engineering Intern @Mercari**
 
 - 🌱 I’m currently learning **Go, AWS, Terraform, Datadog, and K8s**
 
