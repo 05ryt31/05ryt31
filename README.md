@@ -2,15 +2,15 @@
 
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🧑🏻‍💻 I’m **a senior student, studying Computer Science @San Jose State University**
+- 🧑🏻‍💻 I’m **a senior student, studying Computer Science at San Jose State University**
 
-- 💼 **Full-Stack Engineering Intern @Aisaac, Prev Platform Engineering Intern @Mercari**
+- 💼 **Full-Stack Engineering Intern at Aisaac, Previously a Platform Engineering Intern at Mercari**
 
 - 🌱 I’m currently learning **Go, AWS, Terraform, Datadog, and K8s**
 
 - 📝 I regularly write articles on **[https://www.linkedin.com/in/ryuto-kawabata](https://www.linkedin.com/in/ryuto-kawabata)**
 
-- 📫 How to reach me: **DM me via LinkedIn or Email to ryuto.kawabata@sjsu.edu**
+- 📫 How to reach me: **DM me via LinkedIn or Email me at ryuto.kawabata@sjsu.edu**
 
 - 📄 Know about my experiences: **Please take a look at my resume [https://drive.google.com/file/d/1qyDQU5gJ4dM1ZwBuHeq6xjjcIHxeYlfB](https://drive.google.com/file/d/1-MDJlzYRIgpAZTaFGOtfE6GvThGAvXA4/view?usp=sharing)**
 
