@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🧑🏻‍💻 I’m **a Senior student, studying Computer Science @San Jose State University**
+- 🧑🏻‍💻 I’m **a senior student, studying Computer Science @San Jose State University**
 
 - 💼 **Full-Stuck Engineering Intern @Aisaac, Prev Platform Engineering Intern @Mercari**
 
