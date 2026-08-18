@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Go, AWS, Terraform, Datadog, and K8s**
 
-- 📝 I regularly write articles on **[https://www.linkedin.com/in/ryuto-kawabata](https://www.linkedin.com/in/ryuto-kawabata)**
+- 📝 I regularly share posts on LinkedIn: **[https://www.linkedin.com/in/ryuto-kawabata](https://www.linkedin.com/in/ryuto-kawabata)**
 
 - 📫 How to reach me: **DM me via LinkedIn or Email me at ryuto.kawabata@sjsu.edu**
 
